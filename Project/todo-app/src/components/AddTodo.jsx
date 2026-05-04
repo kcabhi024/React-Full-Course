@@ -10,7 +10,7 @@ function AppTodo() {
         <input type="date" name="" id="" />
       </div>
       <div class="col-2">
-        <button type="button" class="btn btn-success">
+        <button type="button" class="btn btn-success item-button">
           Success
         </button>
       </div>
